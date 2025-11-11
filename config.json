@@ -1,0 +1,15 @@
+{
+  "bitget": {
+    "api_key": "bg_378f6b12345f4d8d7f2af2f96fe10e3b",
+    "api_secret": "b9cd921e2f1e14a1f2056fadc2d5ccdcb1234567895123505550c9132c1eca66",
+    "passphrase": "Sfddfg12701"
+  },
+  "telegram": {
+    "bot_token": "7531234598:AAE1PSBGosyAdZDeOrtNRIkpxnrkkI4S8gM",
+    "chat_id": "7654435677"
+  },
+  "settings": {
+    "default_timeframe": "1m",
+    "allowed_timeframes": ["1m", "5m"]
+  }
+}
